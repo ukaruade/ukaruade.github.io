@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukaruade.github.io/Anh/sitemap_index.txt
+Sitemap: https://ukaruade.github.io/GXy/sitemap_index.txt
+Sitemap: https://ukaruade.github.io/ROj/sitemap_index.txt
+Sitemap: https://ukaruade.github.io/YPT/sitemap_index.txt
